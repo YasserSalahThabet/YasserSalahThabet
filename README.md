@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/yasser-thabet-24b34b177">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-<a href="https://www.youtube.com/channel/UCV5J_otmy20byxcL36_H00Q/featured">
+<a href="https://youtu.be/aGYmPluyAFo">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://twitter.com/yasserSthabet">
