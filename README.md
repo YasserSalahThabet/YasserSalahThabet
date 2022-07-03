@@ -35,8 +35,7 @@
 
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yassersalahthabet)](https://git.io/streak-stats)
-https://github-readme-streak-stats.herokuapp.com/?user=your-github-yassersalahthabet
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yassersalahthabet&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 <!--
 **YasserSalahThabet/YasserSalahThabet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
