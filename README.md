@@ -34,7 +34,6 @@
 </div>
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=your-yassersalahthabet
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yassersalahthabet)](https://git.io/streak-stats)
 
 
