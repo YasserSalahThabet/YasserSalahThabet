@@ -17,8 +17,8 @@
 
 ### Hi there 
 ###  Current Status
--  **Career Role :**  AI/ML analyst 
--  **Acadamics :** Full-Stack : MIT  |    Python: self learning	 |  Java: Self learning
+-  **Career Role :**  IT Analyst/Data Visualtization 
+-  **Acadamics :** Full-Stack : MIT  |    Business Adminstration : SDSU	 |  Data Analyst : Calbright College 
 -  **intrests :** tech products 📲 | Cars 🛞 | Coding 💻
 
 ### :hammer_and_wrench: Languages and Tools :
