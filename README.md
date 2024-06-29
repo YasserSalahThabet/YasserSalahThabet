@@ -1,5 +1,5 @@
 <h1 align="center"> Hello, I'm Yasser Thabet </h1> <br>
-<h1 align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTZvc3NpMnNuOWt1NmRlamVqZG45NWhubzM4NzJydW5lczZpdjJoMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yEPUvxlGmPCJ3A4yRe/giphy.gif" height="450px" width="380px"/> </h1>
+<h1 align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTZvc3NpMnNuOWt1NmRlamVqZG45NWhubzM4NzJydW5lczZpdjJoMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yEPUvxlGmPCJ3A4yRe/giphy.gif" height="450px" width="450px"/> </h1>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/yasser-thabet-24b34b177">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
