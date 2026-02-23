@@ -18,7 +18,7 @@
 ### Hi there 
 ###  Current Status
 -  **Career Role :**  Software and systems development  
--  **Acadamics :** Computer Science : CSUSM  |   Full-Stack : MIT	 |  Data Analysis & Network Operations  Certified
+-  **Acadamics :** Computer Science : CSUSM  |   Full-Stack : MIT	 |  Data Analysis & Network Operations  Certificit
 -  **intrests :** tech products 📲 | Cars 🛞 | Coding 💻 | Data science
 
 ### :hammer_and_wrench: Languages and Tools :
