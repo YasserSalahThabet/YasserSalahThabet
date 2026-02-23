@@ -17,9 +17,9 @@
 
 ### Hi there 
 ###  Current Status
--  **Career Role :**  IT Analyst/Data Visualtization 
--  **Acadamics :** Full-Stack : MIT  |  Business Adminstration : SDSU	 |  Data Analyst : Calbright College 
--  **intrests :** tech products 📲 | Cars 🛞 | Coding 💻
+-  **Career Role :**  Software and systems development  
+-  **Acadamics :** Computer Science : CSUSM  |   Full-Stack : MIT	 |  Data Analysis & Network Operations  Certified
+-  **intrests :** tech products 📲 | Cars 🛞 | Coding 💻 | Data science
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
